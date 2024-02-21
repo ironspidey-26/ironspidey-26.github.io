@@ -109,7 +109,8 @@ nav ul li a:hover::after{
 }
 
 .sub-para {
-    font-style: italic;
+    font-style: normal;
+    letter-spacing: 1.25px;
 }
 
 .tab-titles{
